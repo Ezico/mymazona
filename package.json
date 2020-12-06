@@ -1,0 +1,28 @@
+{
+  "name": "amazona",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "MY FIRST REACT APPLICATION \r BUILDING AN E-COMMERCE WEBSITE THAT FUNCTIONS AND LOOKS LIKE AMAZON.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezico/mymazona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ezico/mymazona/issues"
+  },
+  "homepage": "https://github.com/Ezico/mymazona#readme"
+}

@@ -1,7 +1,7 @@
 const data ={
     products:[
         {
-            _id:'0',
+            _id:'1',
             name: 'Nike Slim Shirt',
             category:'Shirts',
             image:'/images/p1.jpg',
@@ -14,7 +14,7 @@ const data ={
 
         },
 
-        { 
+        {
             _id:'2',
             name: 'Nike Slim Pant',
             category:'Pant',
